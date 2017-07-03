@@ -1,1 +1,1 @@
-# ways-to-output-data-in-React
+Three version output data as property
